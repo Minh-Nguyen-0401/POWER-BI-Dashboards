@@ -16,4 +16,4 @@ This file contains data about a superstore. The original dataset or worksheet or
   + Overview: This section contains the most comprehensive and high-level figures, providing an overview of sales performance over the 2-year period.
   + Segment: This section focuses on in-depth breakdowns for different locations and customer segments.
   + Product: This section provides key details, including a lookup table for supervising the performance of products partitioned by categories, customers, dates, revenue, etc.
-- Filters and interactivity are carefully edited to ensure optimal visualizations, enhancing the user experience without overwhelming the viewer or misleading information.
+- Filters and interactivity are carefully edited to ensure optimal visualizations, enhancing the user experience without overwhelming the viewer or misleading information. Bookmarks are also utilized for more convenient and tidy slicer use.
