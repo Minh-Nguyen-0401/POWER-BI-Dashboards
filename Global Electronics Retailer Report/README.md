@@ -5,6 +5,15 @@
 - The primary objective is to develop an automated dashboard optimized for monthly tracking of business progress. This dashboard will provide real-time insights into sales performance, product trends, customer behavior, and store metrics.
 - Additionally, the project aims to identify valuable insights from the data analysis process. These insights will serve as the foundation for recommending new business strategies to enhance performance and drive growth for the electronics retailer.
 
+## How to Navigate:
+Inside this **`Global Electronics Retailer Report`** project subfolder, you'll find:
+  - **`README.md`**: Details about the project, including instructions on using the dashboard and related files.
+  - **`Electronics Retailer Dashboard.pbix`**: The main Power BI file containing the ETL process, data models, and dashboard.
+  - **`(exported) Electronics Retailer Dashboard.pdf`**: Quick-view PDF exports of the dashboards.
+  - **`Global+Electronics+Retailer`**: Folder containing necessary datasets for the project
+  
+> Note: For optimal performance, ensure to download and update the data source to execute ETL and refresh the dashboard.
+
 ## Insights/Findings:
 ### 1. What types of products does the company sell, and where are customers located?
 - The company sells all kinds of household products, ranging from electronics (computers, TV, audio, CDs, audio book ...) to more traditional necessities such as washing machine, heater, and air conditioner. Even games and toys are among the listed.

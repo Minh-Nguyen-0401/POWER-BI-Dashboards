@@ -4,6 +4,15 @@ This file contains data about a superstore. The original dataset or worksheet or
 1. **`Orders`**: contains the data about orders made by customers for any product. This table also contains information about customers like name, address, etc. and information about orders like product name, order-id, product category, etc.
 2. **`Returns`**: contains information about the returned product with their order id and additional information.
 
+## How to Navigate:
+Inside this **`Superstore Sale Report`** project subfolder, you'll find:
+  - **`README.md`**: Details about the project, including instructions on using the dashboard and related files.
+  - **`Superstore Dashboard Report.pbix`**: The main Power BI file containing the ETL process, data models, and dashboard.
+  - **`(exported) Superstore Dashboard Report.pdf`**: Quick-view PDF exports of the dashboards.
+  - Additional Jupyter notebooks since further data scraping/processing was required in the first place.
+  
+> Note: For optimal performance, ensure to update the data source to execute ETL and refresh the dashboard.
+
 ## Data Preprocessing: 
 1. The dataset was obtained using the Kaggle API and a Python library called `shutil`.
 2. Preprocessing steps, including cleaning and transformation, were performed on the dataset to prepare it for analysis.
