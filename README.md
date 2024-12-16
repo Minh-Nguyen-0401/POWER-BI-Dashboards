@@ -1,3 +1,5 @@
+  [![HitCount](https://hits.dwyl.com/Minh-Nguyen-0401/POWER-BI-Dashboards.svg?style=flat-square)](http://hits.dwyl.com/Minh-Nguyen-0401/POWER-BI-Dashboards)
+
 # POWER-BI-Dashboards
 
 >Welcome to the POWER-BI-Dashboards repository, where you'll find projects showcasing the use of Power BI as the primary tool for creating impactful visualizations.
